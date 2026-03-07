@@ -1,0 +1,3 @@
+D:/daima/functions/6/cmake-build-debug/CMakeFiles/6.dir
+D:/daima/functions/6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/daima/functions/6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

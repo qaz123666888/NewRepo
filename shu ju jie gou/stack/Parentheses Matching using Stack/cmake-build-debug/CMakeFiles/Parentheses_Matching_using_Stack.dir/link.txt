@@ -1,0 +1,3 @@
+"D:\CLION111\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Parentheses_Matching_using_Stack.dir/objects.a
+D:\CLION111\mingw64\bin\ar.exe cr CMakeFiles\Parentheses_Matching_using_Stack.dir/objects.a @CMakeFiles\Parentheses_Matching_using_Stack.dir\objects1.rsp
+D:\CLION111\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Parentheses_Matching_using_Stack.dir/objects.a -Wl,--no-whole-archive -o Parentheses_Matching_using_Stack.exe -Wl,--out-implib,libParentheses_Matching_using_Stack.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Parentheses_Matching_using_Stack.dir\linklibs.rsp
