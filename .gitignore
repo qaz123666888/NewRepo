@@ -1,1 +1,8 @@
 *.exe
+cmake-build-debug/
+.vs/
+x64/
+*.vcxproj.user
+*.suo
+Debug/
+Release/
