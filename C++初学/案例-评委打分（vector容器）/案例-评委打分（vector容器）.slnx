@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="案例-评委打分（vector容器）/案例-评委打分（vector容器）.vcxproj" />
+</Solution>

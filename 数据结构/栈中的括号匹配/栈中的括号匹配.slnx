@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="栈中的括号匹配/栈中的括号匹配.vcxproj" />
+</Solution>
