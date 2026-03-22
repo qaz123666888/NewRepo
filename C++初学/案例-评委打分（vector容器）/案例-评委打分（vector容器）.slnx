@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="案例-评委打分（vector容器）/案例-评委打分（vector容器）.vcxproj" />
+  <Project Path="案例-评委打分（vector容器）/案例-评委打分（vector容器）.vcxproj" Id="e391db49-0ac2-49e5-84a6-2e3d3ab89c5b" />
 </Solution>
